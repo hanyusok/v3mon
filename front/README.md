@@ -27,3 +27,7 @@ npm run dev
 ```sh
 npm run build
 ```
+
+### axios vue how to
+
+https://www.koderhq.com/tutorial/vue/http-axios/
