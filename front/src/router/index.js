@@ -8,8 +8,7 @@ const router = createRouter({
       path: "/",
       name: "home",
       component: HomeView,
-    },
-<<<<<<< HEAD
+    }
     // {
     //   path: '/about',
     //   name: 'about',
@@ -20,9 +19,5 @@ const router = createRouter({
     // }
   ]
 })
-=======
-  ],
-});
->>>>>>> 9c35985e8793ec9cc9ed9592aa1fd05b53fa40be
 
 export default router;
