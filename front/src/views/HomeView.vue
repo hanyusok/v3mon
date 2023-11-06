@@ -18,9 +18,9 @@ export default {
 
     }
   },
-  mounted() {
-    this.refreshData()
-  },
+  // mounted() {
+  //   this.refreshData()
+  // },
 };
 </script>
 <template>
